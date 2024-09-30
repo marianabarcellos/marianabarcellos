@@ -1,12 +1,9 @@
 # Hello, world! 👋
 
 - 😁 Hi there, my name is Mariana!
-- 😄 Pronouns: she/her
-- 🦄 I'm currently studying UX Design
-- 🏫 #HereAtSAIT
-- 👩‍💻 Starting to learn code (HTML, CSS and JavaScript)
-- 📚 My favorite hobbie is to read
-- ⚡ Fun fact: I'm always excited for Halloween 🎃
+- 🦄 UX Design Student at SAIT
+- 👩‍💻 HTML, CSS and JavaScript Student
+- 💻 Becoming an UX and Web Designer
 
 <div style="display: inline_block"><br>
   <span>Tools:</span>
